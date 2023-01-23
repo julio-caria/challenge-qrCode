@@ -66,3 +66,9 @@ main img {
   color: var(--grayish-blue);
   margin-bottom: 2.4rem;
 }
+
+.attribution {
+  position: absolute;
+  bottom: 2.4rem;
+  font-size: 1.6rem;
+}
